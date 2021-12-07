@@ -27,7 +27,7 @@ There is a notebook available here to showcase work related to the required anal
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@eng.m7md.samir/why-customers-churn-7c44b3b169cc).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
