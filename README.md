@@ -8,7 +8,13 @@
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+Plotly library must be installed. It is an interactive, open-source, and browser-based graphing library for Python (includes Plotly Express).  
+
+`pip install plotly==5.4.0`
+
+Inside [Jupyter](https://jupyter.org/install) (installable with `pip install "jupyterlab>=3" "ipywidgets>=7.6"`).
+
+The code should run with no issues using Python versions 3.*.
 
 ## Project Motivation<a name="motivation"></a>
 
@@ -16,9 +22,8 @@ In the telecom industry, customers are able to choose from multiple service prov
 
 ## File Descriptions <a name="files"></a>
 
-There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+There is a notebook available here to showcase work related to the required analysis.  The notebook is exploratory in searching through the data pertaining to the questions showcased through notebook.  Markdown cells were used to assist in walking through the thought process for individual steps.  
 
-There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
 
 ## Results<a name="results"></a>
 
@@ -26,5 +31,5 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).  Otherwise, feel free to use the code here as you would like! 
+Must give credit to IBM for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/blastchar/telco-customer-churn).  Otherwise, feel free to use the code here as you would like! 
 
